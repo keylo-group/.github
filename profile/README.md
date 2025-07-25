@@ -1,6 +1,6 @@
 <!-- Title animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Welcome+to+Keylo;The+Ultimate+Hub+Framework+for+Roblox" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,12 +8,16 @@
 ## ✨ What is Keylo?
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" alt="What is Keylo animation" />
+  <img src="https://img.shields.io/badge/Roblox-Framework-red?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Framework Badge"/>
+  <img src="https://img.shields.io/badge/Modular-System-blue?style=for-the-badge&logo=lua&logoColor=white" alt="Modular System Badge"/>
+  <img src="https://img.shields.io/badge/Asset%20Distribution-Enabled-success?style=for-the-badge&logo=opensea&logoColor=white" alt="Asset Distribution Badge"/>
 </p>
 
-**Keylo** is a modern **hub system for Roblox**, built to help creators **sell, distribute, and manage** their Roblox assets, modules, tools, and game content—**all from a centralized interface**.
+**Keylo** is a modern **hub system for Roblox**, built to help creators  
+**sell, distribute, and manage** their Roblox assets, modules, tools, and game content—  
+**all from a centralized interface**.
 
-It functions similarly to systems like **Parcel**, but is tailored specifically for Roblox developers and creators. Whether you're shipping UI modules, monetizing admin tools, or sharing full game frameworks, **Keylo lets you do it all in one place**.
+> 🧠 _"Like Parcel, but better."_
 
 ---
 
@@ -29,9 +33,14 @@ It functions similarly to systems like **Parcel**, but is tailored specifically 
 
 ## 📡 Stay Connected
 
-- 📜 [Documentation (not-made)
-- 🧠 [Discord](https://discord.gg/gjy3WCGEzJ)
-- 🛠️ [Paypal-donation](https://paypal.me/kuberrr)
+<p align="center">
+  <img src="https://img.shields.io/discord/1354537808282517687?color=7289DA&label=Discord&logo=discord&style=for-the-badge" alt="Discord"/>
+  <a href="https://paypal.me/kuberrr"><img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" alt="PayPal"></a>
+</p>
+
+- 📜 **Documentation:** *(not made yet)*
+- 🧠 **Discord:** [Join our server](https://discord.gg/gjy3WCGEzJ)
+- 🛠️ **Donate:** [paypal.me/kuberrr](https://paypal.me/kuberrr)
 
 ---
 
