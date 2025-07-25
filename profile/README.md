@@ -1,49 +1,60 @@
-<!-- Title animation -->
+<!-- Animated Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Keylo+Hub+System+for+Roblox;Built+for+Asset+Creators+and+Group+Developers;Sell+and+Distribute+Virtual+Content+with+Stability" alt="Typing SVG" />
 </p>
 
 ---
 
-## What is Keylo
+## Overview
 
-**Keylo** is a modular hub system for Roblox. It enables creators to sell, distribute, and manage their virtual assets, tools, and modules through a centralized and reliable interface.
+**Keylo** is a professional-grade hub system designed for Roblox developers and group owners. It enables seamless **sale**, **distribution**, and **management** of virtual assets such as modules, UI components, admin panels, frameworks, and more.
 
-Whether you're a solo developer or managing a group, Keylo provides the infrastructure to deliver your content at scale with minimal friction.
-
----
-
-## Features
-
-- **Asset Sales and Distribution**  
-  Sell models, UI systems, frameworks, and other virtual content directly from your hub.
-
-- **Built for Developers and Groups**  
-  Designed to serve both individual creators and Roblox group infrastructure.
-
-- **Modular Architecture**  
-  Organize features and systems into clean, maintainable, plug-and-play modules.
-
-- **Integrated UI and Backend**  
-  Connect user interfaces with backend logic for a seamless in-game experience.
-
-- **Stability and Uptime Focused**  
-  Keylo is engineered for reliability, with minimal downtime and consistent performance.
-
-- **Access and Licensing Control**  
-  Define visibility, permissions, and usage rules for each asset or system.
+The system emphasizes **stability**, **modularity**, and **efficiency**, ensuring reliable operation with minimal downtime. Whether you're selling developer tools or powering a group-wide system, Keylo offers the infrastructure to do it cleanly.
 
 ---
 
-## Stay Connected
+## Core Capabilities
 
-- **Documentation**: *(coming soon)*  
-- **Discord**: [Join the server](https://discord.gg/gjy3WCGEzJ)  
-- **Donate**: [paypal.me/kuberrr](https://paypal.me/kuberrr)
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Roblox-informational?style=flat-square&color=2f80ed" />
+  <img src="https://img.shields.io/badge/Distribution-Enabled-success?style=flat-square&color=27ae60" />
+  <img src="https://img.shields.io/badge/Designed+For-Creators%20%26%20Groups-lightgrey?style=flat-square" />
+</p>
+
+- **Asset Distribution**  
+  Share and monetize Roblox assets like scripts, interfaces, and modules through a centralized system.
+
+- **Group Integration**  
+  Built to serve group-based infrastructures with permission-aware content control and delivery.
+
+- **Modular System Design**  
+  Maintain clean separation of logic, interfaces, and features via a plug-and-play module approach.
+
+- **Backend/UI Binding**  
+  Pages, APIs, and services are directly connected for integrated user and developer experiences.
+
+- **Resilience at Scale**  
+  Engineered to support large hubs and client activity with minimal outages or performance drops.
+
+- **Access & Licensing Controls**  
+  Built-in logic for limiting content access by role, user, or license type.
 
 ---
 
-<!-- Banner at bottom -->
+## Get Involved
+
+- **Documentation** → *(coming soon)*  
+- **Discord** → [Join here](https://discord.gg/gjy3WCGEzJ)  
+- **Donate** → [paypal.me/kuberrr](https://paypal.me/kuberrr)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Alpha-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Support-Community%20Driven-blue?style=flat-square" />
+</p>
+
+---
+
+<!-- Banner image at the bottom -->
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1354537808282517687/1398047274210431027/image.png?ex=6884993c&is=688347bc&hm=c67e6996e075843021106661a3af0f3158952ececd85c2880f1e5070561b5fef&=&format=webp&quality=lossless&width=1032&height=234" alt="Keylo Banner">
 </p>
