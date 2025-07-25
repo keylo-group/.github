@@ -15,12 +15,6 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 
 ## Core Capabilities
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Roblox-informational?style=flat-square&color=2f80ed" />
-  <img src="https://img.shields.io/badge/Distribution-Enabled-success?style=flat-square&color=27ae60" />
-  <img src="https://img.shields.io/badge/Designed+For-Creators%20%26%20Groups-lightgrey?style=flat-square" />
-</p>
-
 - **Asset Distribution**  
   Share and monetize Roblox assets like scripts, interfaces, and modules through a centralized system.
 
