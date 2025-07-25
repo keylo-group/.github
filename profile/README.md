@@ -1,34 +1,45 @@
 <!-- Title animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ What is Keylo?
+## What is Keylo
 
-**Keylo** is a modern **hub system for Roblox**, built to help creators  
-**sell, distribute, and manage** their Roblox assets, modules, tools, and game content—  
-**all from a centralized interface**.
+**Keylo** is a modular hub system for Roblox. It enables creators to sell, distribute, and manage their virtual assets, tools, and modules through a centralized and reliable interface.
 
----
-
-## ✨ Features
-
-- 💼 **Sell Your Virtual Assets** — Offer models, UIs, systems, and more to other developers directly through your Keylo hub.
-- 🤝 **Developer & Group Services** — Built for both individual creators and Roblox groups to manage and distribute assets seamlessly.
-- 🧱 **Modular by Design** — Structure your hub with independent, scalable modules for clean maintenance and flexibility.
-- 🖥️ **Connected UI & Backend** — Robust interface layer tightly integrated with core game logic and services.
-- 🛡️ **Stable & Reliable** — Keylo prioritizes uptime and performance—built to run with minimal interruptions.
-- 🔐 **Access Management** — Control who sees and uses what, with built-in permission and licensing tools.
+Whether you're a solo developer or managing a group, Keylo provides the infrastructure to deliver your content at scale with minimal friction.
 
 ---
 
-## 📡 Stay Connected
+## Features
 
-- 📜 **Documentation:** *(not made yet)*
-- 🧠 **Discord:** [Join our server](https://discord.gg/gjy3WCGEzJ)
-- 🛠️ **Donate:** [paypal.me/kuberrr](https://paypal.me/kuberrr)
+- **Asset Sales and Distribution**  
+  Sell models, UI systems, frameworks, and other virtual content directly from your hub.
+
+- **Built for Developers and Groups**  
+  Designed to serve both individual creators and Roblox group infrastructure.
+
+- **Modular Architecture**  
+  Organize features and systems into clean, maintainable, plug-and-play modules.
+
+- **Integrated UI and Backend**  
+  Connect user interfaces with backend logic for a seamless in-game experience.
+
+- **Stability and Uptime Focused**  
+  Keylo is engineered for reliability, with minimal downtime and consistent performance.
+
+- **Access and Licensing Control**  
+  Define visibility, permissions, and usage rules for each asset or system.
+
+---
+
+## Stay Connected
+
+- **Documentation**: *(coming soon)*  
+- **Discord**: [Join the server](https://discord.gg/gjy3WCGEzJ)  
+- **Donate**: [paypal.me/kuberrr](https://paypal.me/kuberrr)
 
 ---
 
