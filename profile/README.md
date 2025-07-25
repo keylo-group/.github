@@ -42,7 +42,7 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 - **Donate** → [paypal.me/kuberrr](https://paypal.me/kuberrr)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6A737D&center=true&width=250&lines=Coming+Soon+%E2%80%A6" alt="Coming Soon Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=3B82F6&center=true&width=400&lines=Coming+Soon...;New+Features+Loading;Thanks+For+Your+Patience" alt="Coming Soon Animation" />
 </p>
 
 ---
