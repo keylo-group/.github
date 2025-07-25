@@ -42,7 +42,7 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 - **Donate** → [paypal.me/kuberrr](https://paypal.me/kuberrr)
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1286367307979034779/1398382057175908402/Group_1343.png?ex=68852847&is=6883d6c7&hm=dfe0863c718d17372bffe3128b0dd803f7b02dc029ba18e45fc3ff7c60988773&=&format=webp&quality=lossless" alt="Keylo Support" width="150" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6A737D&center=true&width=250&lines=Coming+Soon+%E2%80%A6" alt="Coming Soon Animation" />
 </p>
 
 ---
