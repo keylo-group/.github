@@ -1,6 +1,6 @@
 <!-- Title animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Welcome+to+Keylo;Roblox's+Smartest+Hub+System;Sell+and+Distribute+Your+Assets+Easily" alt="Typing SVG" />
 </p>
 
 ---
