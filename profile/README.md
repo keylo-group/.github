@@ -39,7 +39,7 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 
 - **Documentation** → *(coming soon)*  
 - **Discord** → [Join here](https://discord.gg/gjy3WCGEzJ)  
-- **Donate** → [paypal.me/kuberrr](https://paypal.me/kuberrr)
+- **Donate** → [Paypal dono](https://paypal.me/kuberrr)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FFFFFFFF&center=true&width=400&lines=Coming+Soon...;New+Features+Loading;Thanks+For+Your+Patience" alt="Coming Soon Animation" />
