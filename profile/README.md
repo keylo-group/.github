@@ -49,5 +49,5 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 
 <!-- Banner image at the bottom -->
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1354537808282517687/1398047274210431027/image.png?ex=6884993c&is=688347bc&hm=c67e6996e075843021106661a3af0f3158952ececd85c2880f1e5070561b5fef&=&format=webp&quality=lossless&width=1032&height=234" alt="Keylo Banner">
+  <img src="https://media.discordapp.net/attachments/1398004594042339368/1398709978830995637/Frame_316.png?ex=688659ad&is=6885082d&hm=e0f00febc787fdfd2cd61fbc5a35d4a5889a5f89f0906d85208710e24f80f4a9&=&format=webp&quality=lossless&width=1032&height=234" alt="Keylo Banner">
 </p>
