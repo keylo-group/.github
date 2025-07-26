@@ -1,6 +1,6 @@
 <!-- Animated Headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=5500FFFF&center=true&vCenter=true&width=800&lines=Keylo+Hub+System+for+Roblox;Built+for+Asset+Creators+and+Group+Developers;Sell+and+Distribute+Virtual+Content+with+Stability" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFFFF&center=true&vCenter=true&width=800&lines=Keylo+Hub+System+for+Roblox;Built+for+Asset+Creators+and+Group+Developers;Sell+and+Distribute+Virtual+Content+with+Stability" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ The system emphasizes **stability**, **modularity**, and **efficiency**, ensurin
 - **Donate** → [paypal.me/kuberrr](https://paypal.me/kuberrr)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=5500FF&center=true&width=400&lines=Coming+Soon...;New+Features+Loading;Thanks+For+Your+Patience" alt="Coming Soon Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FFFFFFFF&center=true&width=400&lines=Coming+Soon...;New+Features+Loading;Thanks+For+Your+Patience" alt="Coming Soon Animation" />
 </p>
 
 ---
